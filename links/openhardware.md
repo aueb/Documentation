@@ -15,3 +15,5 @@ https://github.com/loxodes/vna
 https://github.com/ttrftech/NanoVNA
 
 https://github.com/etherkit/LA0W5
+
+https://github.com/rocketman768/HF10WAmp
