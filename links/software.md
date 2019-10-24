@@ -32,3 +32,8 @@ https://www.welle.io/
 
 
 https://www.public-software-group.org/radioircd
+
+Winlink
+https://www.winlink.org/
+http://wiki.oevsv.at/index.php/Kategorie:WINLINK
+https://www.jeffreykopcak.com/2018/02/01/digital-communications-in-amateur-radio-winlink/
